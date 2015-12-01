@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Bubble Popper",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A tool for popping your Internet bubble.",
+    "description": "The description of the application"
+  }
+}
